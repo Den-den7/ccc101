@@ -1,2 +1,4 @@
 # ccc101
-Course repository for CCC101
+Denisse L. Gamao
+CCC101
+Course repository for Computer Programming 1
